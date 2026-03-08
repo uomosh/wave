@@ -1,4 +1,4 @@
-# Wave Executor - Download The Best Roblox Script Executor for PC 🚀
+# Wave Executor - Download BEST Roblox Executor for PC 2026 🚀
 
 ![Downloads](https://img.shields.io/badge/Downloads-500K%2B-brightgreen?style=for-the-badge)
 ![Rating](https://img.shields.io/badge/Rating-4.8%2F5-blue?style=for-the-badge)
@@ -65,25 +65,20 @@ These benefits have made Wave a favorite among serious Roblox players worldwide.
 ### Installation on Windows PC 🖥️
 
 1. Click the download button above to get the latest Wave Executor installer.
-2. Disable Windows Defender or any antivirus temporarily (add exception afterward).
-3. Run the downloaded `.exe` file as administrator.
-4. Follow the on-screen setup wizard – accept terms and choose installation path.
-5. Launch Roblox and wait for it to fully load.
-6. Open Wave Executor and click "Inject" – wait for successful attachment.
-7. Load your desired script and execute!
+2. Run the downloaded `.exe` file as administrator.
+3. Follow the on-screen setup wizard – accept terms and choose installation path.
+4. Launch Roblox and wait for it to fully load.
+5. Open Wave Executor and click "Inject" – wait for successful attachment.
+6. Load your desired script and execute!
 
 ### Installation on Android 📱
 
-1. Download the Wave Executor APK from the official link.
+1. Download the Wave Executor APK from our official link.
 2. Enable "Install from unknown sources" in your device settings.
 3. Install the APK file.
 4. Open Roblox Mobile first.
 5. Launch Wave and grant floating window/overlays permission.
 6. Tap "Attach" and enjoy mobile execution!
-
-### iOS Installation Note 🍏
-
-Due to Apple's strict restrictions, native executor support on non-jailbroken iOS devices is limited. Some users report success through sideload methods or web-based alternatives, but we recommend sticking to PC or Android for best results and safety.
 
 ## Compatibility 📊
 
