@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RickyAmI/Roblox/main/TPS%20Ultimate%20Soccer/Abel%20and%20Megariz"))()
+
